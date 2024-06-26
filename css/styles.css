@@ -1,5 +1,6 @@
 @import url('./_reset.css');
 @import url('./_header.css');
+@import url('./_introducao.css');
 
 body {
     font-family: Arial, Helvetica, sans-serif;   
